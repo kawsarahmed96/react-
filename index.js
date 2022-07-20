@@ -1,1 +1,2 @@
-const name ="i love allah"
+const names ="i love allah"
+console.log(names);
